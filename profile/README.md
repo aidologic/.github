@@ -8,6 +8,4 @@
 - AIエージェント導入・運用設計
 - 人とAIエージェントの協業を支える基盤の研究開発
 
-研究開発中の基盤（Intentory / Praxitheca / Knowmark）は、現在は非公開で進めています。
-
 詳しくは [aidologic.com](https://aidologic.com/) を参照してください。
